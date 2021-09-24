@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Employee employee = new Employee(
-                "Колтунов.A",
+                "Саша.A",
                 "Programmer",
                 "Kol@mail.ru",
                 "89214567890",
